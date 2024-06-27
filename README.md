@@ -12,4 +12,4 @@ bun main.js
 ## UI
 ![UI](UI.png)
 
-另外也有 Web UI
+另外也有 Web UI, 可以到 [codepen](https://codepen.io/weber87na/full/JjqVLoB) 看效果
