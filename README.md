@@ -1,10 +1,10 @@
 ![偷念](偷念.gif)
-上班太沒 fu 時偷用 cli 來背多益單字的工具
+
+![UI](UI.png)
+
+上班太沒 fu 時偷用 cli 來背多益單字的工具, 另外也有 Web UI
 
 usage
 ```
 bun main.js
 ```
-
-另外還有網頁可用
-![UI](UI.png)
