@@ -5,3 +5,6 @@ usage
 ```
 bun main.js
 ```
+
+另外還有網頁可用
+![UI](UI.png)
