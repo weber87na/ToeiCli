@@ -1,0 +1,917 @@
+[
+  {
+    "ans": false,
+    "en": "agreement",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "negotiation",
+    "tw": "談判、協商"
+  },
+  {
+    "ans": false,
+    "en": "diplomacy",
+    "tw": "外交、外交手腕"
+  },
+  {
+    "ans": false,
+    "en": "embassy",
+    "tw": "大使館"
+  },
+  {
+    "ans": false,
+    "en": "ambassador",
+    "tw": "大使"
+  },
+  {
+    "ans": false,
+    "en": "consulate",
+    "tw": "領事館"
+  },
+  {
+    "ans": false,
+    "en": "diplomat",
+    "tw": "外交官"
+  },
+  {
+    "ans": false,
+    "en": "protocol",
+    "tw": "禮儀、外交條約"
+  },
+  {
+    "ans": false,
+    "en": "summit",
+    "tw": "高峰會、峰會"
+  },
+  {
+    "ans": false,
+    "en": "conference",
+    "tw": "會議、大會"
+  },
+  {
+    "ans": false,
+    "en": "seminar",
+    "tw": "研討會、座談會"
+  },
+  {
+    "ans": false,
+    "en": "symposium",
+    "tw": "研討會、座談會"
+  },
+  {
+    "ans": false,
+    "en": "forum",
+    "tw": "論壇"
+  },
+  {
+    "ans": false,
+    "en": "negotiator",
+    "tw": "談判者、協商者"
+  },
+  {
+    "ans": false,
+    "en": "mediation",
+    "tw": "調解、仲裁"
+  },
+  {
+    "ans": false,
+    "en": "conciliation",
+    "tw": "調解、和解"
+  },
+  {
+    "ans": false,
+    "en": "resolution",
+    "tw": "解決、決議"
+  },
+  {
+    "ans": false,
+    "en": "alliance",
+    "tw": "聯盟、同盟"
+  },
+  {
+    "ans": false,
+    "en": "coalition",
+    "tw": "聯盟、聯合"
+  },
+  {
+    "ans": false,
+    "en": "agreement",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "deal",
+    "tw": "交易、協議"
+  },
+  {
+    "ans": false,
+    "en": "contract",
+    "tw": "合約、契約"
+  },
+  {
+    "ans": false,
+    "en": "accord",
+    "tw": "協議、一致"
+  },
+  {
+    "ans": false,
+    "en": "commitment",
+    "tw": "承諾、委託"
+  },
+  {
+    "ans": false,
+    "en": "obligation",
+    "tw": "義務、責任"
+  },
+  {
+    "ans": false,
+    "en": "obligate",
+    "tw": "強制、使負義務"
+  },
+  {
+    "ans": false,
+    "en": "undertake",
+    "tw": "承擔、從事"
+  },
+  {
+    "ans": false,
+    "en": "signatory",
+    "tw": "簽署者、締約國"
+  },
+  {
+    "ans": false,
+    "en": "ratify",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "approve",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "confirm",
+    "tw": "確認、證實"
+  },
+  {
+    "ans": false,
+    "en": "authenticate",
+    "tw": "認證、證實"
+  },
+  {
+    "ans": false,
+    "en": "validate",
+    "tw": "驗證、確認"
+  },
+  {
+    "ans": false,
+    "en": "enforce",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "implement",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "execute",
+    "tw": "執行、實施"
+  },
+  {
+    "ans": false,
+    "en": "violate",
+    "tw": "違反、侵犯"
+  },
+  {
+    "ans": false,
+    "en": "breach",
+    "tw": "違反、破壞"
+  },
+  {
+    "ans": false,
+    "en": "abide",
+    "tw": "遵守、忍受"
+  },
+  {
+    "ans": false,
+    "en": "comply",
+    "tw": "遵守、依從"
+  },
+  {
+    "ans": false,
+    "en": "observe",
+    "tw": "遵守、觀察"
+  },
+  {
+    "ans": false,
+    "en": "neglect",
+    "tw": "忽略、疏忽"
+  },
+  {
+    "ans": false,
+    "en": "waive",
+    "tw": "放棄、豁免"
+  },
+  {
+    "ans": false,
+    "en": "exempt",
+    "tw": "免除、豁免"
+  },
+  {
+    "ans": false,
+    "en": "compromise",
+    "tw": "妥協、讓步"
+  },
+  {
+    "ans": false,
+    "en": "concession",
+    "tw": "讓步、特許"
+  },
+  {
+    "ans": false,
+    "en": "proposal",
+    "tw": "提議、建議"
+  },
+  {
+    "ans": false,
+    "en": "initiative",
+    "tw": "倡議、主動性"
+  },
+  {
+    "ans": false,
+    "en": "offer",
+    "tw": "提供、提議"
+  },
+  {
+    "ans": false,
+    "en": "invitation",
+    "tw": "邀請、邀請函"
+  },
+  {
+    "ans": false,
+    "en": "invitation",
+    "tw": "邀請、邀請函"
+  },
+  {
+    "ans": false,
+    "en": "request",
+    "tw": "請求、要求"
+  },
+  {
+    "ans": false,
+    "en": "demand",
+    "tw": "需求、要求"
+  },
+  {
+    "ans": false,
+    "en": "requirement",
+    "tw": "要求、需求"
+  },
+  {
+    "ans": false,
+    "en": "stipulation",
+    "tw": "規定、條款"
+  },
+  {
+    "ans": false,
+    "en": "condition",
+    "tw": "條件、情況"
+  },
+  {
+    "ans": false,
+    "en": "clause",
+    "tw": "條款、子句"
+  },
+  {
+    "ans": false,
+    "en": "provision",
+    "tw": "條款、供給"
+  },
+  {
+    "ans": false,
+    "en": "term",
+    "tw": "條件、條款"
+  },
+  {
+    "ans": false,
+    "en": "understanding",
+    "tw": "理解、協議"
+  },
+  {
+    "ans": false,
+    "en": "agreement",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "pact",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "entente",
+    "tw": "協定、友好協議"
+  },
+  {
+    "ans": false,
+    "en": "treaty",
+    "tw": "條約、協定"
+  },
+  {
+    "ans": false,
+    "en": "compact",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "accordance",
+    "tw": "符合、一致"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵守、依從"
+  },
+  {
+    "ans": false,
+    "en": "observance",
+    "tw": "遵守、觀察"
+  },
+  {
+    "ans": false,
+    "en": "performance",
+    "tw": "履行、表演"
+  },
+  {
+    "ans": false,
+    "en": "fulfillment",
+    "tw": "履行、實現"
+  },
+  {
+    "ans": false,
+    "en": "execution",
+    "tw": "執行、實行"
+  },
+  {
+    "ans": false,
+    "en": "implementation",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "ratification",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "approval",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "confirmation",
+    "tw": "確認、證實"
+  },
+  {
+    "ans": false,
+    "en": "validation",
+    "tw": "驗證、確認"
+  },
+  {
+    "ans": false,
+    "en": "enforcement",
+    "tw": "執行、實施"
+  },
+  {
+    "ans": false,
+    "en": "implementation",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "violation",
+    "tw": "違反、侵犯"
+  },
+  {
+    "ans": false,
+    "en": "breach",
+    "tw": "違反、破壞"
+  },
+  {
+    "ans": false,
+    "en": "abidance",
+    "tw": "遵守、忍受"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵守、依從"
+  },
+  {
+    "ans": false,
+    "en": "observance",
+    "tw": "遵守、觀察"
+  },
+  {
+    "ans": false,
+    "en": "neglect",
+    "tw": "忽略、疏忽"
+  },
+  {
+    "ans": false,
+    "en": "waiver",
+    "tw": "放棄、豁免"
+  },
+  {
+    "ans": false,
+    "en": "exemption",
+    "tw": "免除、豁免"
+  },
+  {
+    "ans": false,
+    "en": "compromise",
+    "tw": "妥協、讓步"
+  },
+  {
+    "ans": false,
+    "en": "concession",
+    "tw": "讓步、特許"
+  },
+  {
+    "ans": false,
+    "en": "proposal",
+    "tw": "提議、建議"
+  },
+  {
+    "ans": false,
+    "en": "initiative",
+    "tw": "倡議、主動性"
+  },
+  {
+    "ans": false,
+    "en": "offer",
+    "tw": "提供、提議"
+  },
+  {
+    "ans": false,
+    "en": "invitation",
+    "tw": "邀請、邀請函"
+  },
+  {
+    "ans": false,
+    "en": "request",
+    "tw": "請求、要求"
+  },
+  {
+    "ans": false,
+    "en": "demand",
+    "tw": "需求、要求"
+  },
+  {
+    "ans": false,
+    "en": "requirement",
+    "tw": "要求、需求"
+  },
+  {
+    "ans": false,
+    "en": "stipulation",
+    "tw": "規定、條款"
+  },
+  {
+    "ans": false,
+    "en": "condition",
+    "tw": "條件、情況"
+  },
+  {
+    "ans": false,
+    "en": "clause",
+    "tw": "條款、子句"
+  },
+  {
+    "ans": false,
+    "en": "provision",
+    "tw": "條款、供給"
+  },
+  {
+    "ans": false,
+    "en": "term",
+    "tw": "條件、條款"
+  },
+  {
+    "ans": false,
+    "en": "understanding",
+    "tw": "理解、協議"
+  },
+  {
+    "ans": false,
+    "en": "agreement",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "pact",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "entente",
+    "tw": "協定、友好協議"
+  },
+  {
+    "ans": false,
+    "en": "treaty",
+    "tw": "條約、協定"
+  },
+  {
+    "ans": false,
+    "en": "compact",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "accordance",
+    "tw": "符合、一致"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵守、依從"
+  },
+  {
+    "ans": false,
+    "en": "observance",
+    "tw": "遵守、觀察"
+  },
+  {
+    "ans": false,
+    "en": "performance",
+    "tw": "履行、表演"
+  },
+  {
+    "ans": false,
+    "en": "fulfillment",
+    "tw": "履行、實現"
+  },
+  {
+    "ans": false,
+    "en": "execution",
+    "tw": "執行、實行"
+  },
+  {
+    "ans": false,
+    "en": "implementation",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "ratification",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "approval",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "confirmation",
+    "tw": "確認、證實"
+  },
+  {
+    "ans": false,
+    "en": "validation",
+    "tw": "驗證、確認"
+  },
+  {
+    "ans": false,
+    "en": "enforcement",
+    "tw": "執行、實施"
+  },
+  {
+    "ans": false,
+    "en": "implementation",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "violation",
+    "tw": "違反、侵犯"
+  },
+  {
+    "ans": false,
+    "en": "breach",
+    "tw": "違反、破壞"
+  },
+  {
+    "ans": false,
+    "en": "abidance",
+    "tw": "遵守、忍受"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵守、依從"
+  },
+  {
+    "ans": false,
+    "en": "observance",
+    "tw": "遵守、觀察"
+  },
+  {
+    "ans": false,
+    "en": "neglect",
+    "tw": "忽略、疏忽"
+  },
+  {
+    "ans": false,
+    "en": "waiver",
+    "tw": "放棄、豁免"
+  },
+  {
+    "ans": false,
+    "en": "exemption",
+    "tw": "免除、豁免"
+  },
+  {
+    "ans": false,
+    "en": "compromise",
+    "tw": "妥協、讓步"
+  },
+  {
+    "ans": false,
+    "en": "concession",
+    "tw": "讓步、特許"
+  },
+  {
+    "ans": false,
+    "en": "proposal",
+    "tw": "提議、建議"
+  },
+  {
+    "ans": false,
+    "en": "initiative",
+    "tw": "倡議、主動性"
+  },
+  {
+    "ans": false,
+    "en": "offer",
+    "tw": "提供、提議"
+  },
+  {
+    "ans": false,
+    "en": "invitation",
+    "tw": "邀請、邀請函"
+  },
+  {
+    "ans": false,
+    "en": "request",
+    "tw": "請求、要求"
+  },
+  {
+    "ans": false,
+    "en": "demand",
+    "tw": "需求、要求"
+  },
+  {
+    "ans": false,
+    "en": "requirement",
+    "tw": "要求、需求"
+  },
+  {
+    "ans": false,
+    "en": "stipulation",
+    "tw": "規定、條款"
+  },
+  {
+    "ans": false,
+    "en": "condition",
+    "tw": "條件、情況"
+  },
+  {
+    "ans": false,
+    "en": "clause",
+    "tw": "條款、子句"
+  },
+  {
+    "ans": false,
+    "en": "provision",
+    "tw": "條款、供給"
+  },
+  {
+    "ans": false,
+    "en": "term",
+    "tw": "條件、條款"
+  },
+  {
+    "ans": false,
+    "en": "understanding",
+    "tw": "理解、協議"
+  },
+  {
+    "ans": false,
+    "en": "agreement",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "pact",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "entente",
+    "tw": "協定、友好協議"
+  },
+  {
+    "ans": false,
+    "en": "treaty",
+    "tw": "條約、協定"
+  },
+  {
+    "ans": false,
+    "en": "compact",
+    "tw": "協議、合約"
+  },
+  {
+    "ans": false,
+    "en": "accordance",
+    "tw": "符合、一致"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵守、依從"
+  },
+  {
+    "ans": false,
+    "en": "observance",
+    "tw": "遵守、觀察"
+  },
+  {
+    "ans": false,
+    "en": "performance",
+    "tw": "履行、表演"
+  },
+  {
+    "ans": false,
+    "en": "fulfillment",
+    "tw": "履行、實現"
+  },
+  {
+    "ans": false,
+    "en": "execution",
+    "tw": "執行、實行"
+  },
+  {
+    "ans": false,
+    "en": "implementation",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "ratification",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "approval",
+    "tw": "批准、認可"
+  },
+  {
+    "ans": false,
+    "en": "confirmation",
+    "tw": "確認、證實"
+  },
+  {
+    "ans": false,
+    "en": "validation",
+    "tw": "驗證、確認"
+  },
+  {
+    "ans": false,
+    "en": "enforcement",
+    "tw": "執行、實施"
+  },
+  {
+    "ans": false,
+    "en": "implementation",
+    "tw": "實施、執行"
+  },
+  {
+    "ans": false,
+    "en": "violation",
+    "tw": "違反、侵犯"
+  },
+  {
+    "ans": false,
+    "en": "breach",
+    "tw": "違反、破壞"
+  },
+  {
+    "ans": false,
+    "en": "abidance",
+    "tw": "遵守、忍受"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵守、依從"
+  },
+  {
+    "ans": false,
+    "en": "observance",
+    "tw": "遵守、觀察"
+  },
+  {
+    "ans": false,
+    "en": "neglect",
+    "tw": "忽略、疏忽"
+  },
+  {
+    "ans": false,
+    "en": "waiver",
+    "tw": "放棄、豁免"
+  },
+  {
+    "ans": false,
+    "en": "exemption",
+    "tw": "免除、豁免"
+  },
+  {
+    "ans": false,
+    "en": "compromise",
+    "tw": "妥協、讓步"
+  },
+  {
+    "ans": false,
+    "en": "concession",
+    "tw": "讓步、特許"
+  },
+  {
+    "ans": false,
+    "en": "proposal",
+    "tw": "提議、建議"
+  },
+  {
+    "ans": false,
+    "en": "initiative",
+    "tw": "倡議、主動性"
+  },
+  {
+    "ans": false,
+    "en": "offer",
+    "tw": "提供、提議"
+  },
+  {
+    "ans": false,
+    "en": "invitation",
+    "tw": "邀請、邀請函"
+  },
+  {
+    "ans": false,
+    "en": "request",
+    "tw": "請求、要求"
+  },
+  {
+    "ans": false,
+    "en": "demand",
+    "tw": "需求、要求"
+  },
+  {
+    "ans": false,
+    "en": "requirement",
+    "tw": "要求、需求"
+  },
+  {
+    "ans": false,
+    "en": "stipulation",
+    "tw": "規定、條款"
+  },
+  {
+    "ans": false,
+    "en": "condition",
+    "tw": "條件、情況"
+  },
+  {
+    "ans": false,
+    "en": "clause",
+    "tw": "條款、子句"
+  },
+  {
+    "ans": false,
+    "en": "provision",
+    "tw": "條款、供給"
+  },
+  {
+    "ans": false,
+    "en": "term",
+    "tw": "條件、條款"
+  },
+  {
+    "ans": false,
+    "en": "understanding",
+    "tw": "理解、協議"
+  }
+]
