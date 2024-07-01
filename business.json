@@ -1,0 +1,697 @@
+[
+  {
+    "ans": false,
+    "en": "report",
+    "tw": "報告、報告書"
+  },
+  {
+    "ans": false,
+    "en": "meeting",
+    "tw": "會議"
+  },
+  {
+    "ans": false,
+    "en": "client",
+    "tw": "客戶"
+  },
+  {
+    "ans": false,
+    "en": "budget",
+    "tw": "預算"
+  },
+  {
+    "ans": false,
+    "en": "presentation",
+    "tw": "簡報"
+  },
+  {
+    "ans": false,
+    "en": "deadline",
+    "tw": "截止日期"
+  },
+  {
+    "ans": false,
+    "en": "project",
+    "tw": "專案、計畫"
+  },
+  {
+    "ans": false,
+    "en": "department",
+    "tw": "部門"
+  },
+  {
+    "ans": false,
+    "en": "income",
+    "tw": "收入"
+  },
+  {
+    "ans": false,
+    "en": "expense",
+    "tw": "支出"
+  },
+  {
+    "ans": false,
+    "en": "contract",
+    "tw": "合約"
+  },
+  {
+    "ans": false,
+    "en": "strategy",
+    "tw": "策略"
+  },
+  {
+    "ans": false,
+    "en": "inventory",
+    "tw": "庫存"
+  },
+  {
+    "ans": false,
+    "en": "promotion",
+    "tw": "促銷"
+  },
+  {
+    "ans": false,
+    "en": "marketing",
+    "tw": "行銷"
+  },
+  {
+    "ans": false,
+    "en": "manager",
+    "tw": "經理"
+  },
+  {
+    "ans": false,
+    "en": "team",
+    "tw": "團隊"
+  },
+  {
+    "ans": false,
+    "en": "product",
+    "tw": "產品"
+  },
+  {
+    "ans": false,
+    "en": "service",
+    "tw": "服務"
+  },
+  {
+    "ans": false,
+    "en": "customer",
+    "tw": "顧客"
+  },
+  {
+    "ans": false,
+    "en": "employee",
+    "tw": "員工"
+  },
+  {
+    "ans": false,
+    "en": "salary",
+    "tw": "薪水"
+  },
+  {
+    "ans": false,
+    "en": "market",
+    "tw": "市場"
+  },
+  {
+    "ans": false,
+    "en": "investment",
+    "tw": "投資"
+  },
+  {
+    "ans": false,
+    "en": "performance",
+    "tw": "表現、績效"
+  },
+  {
+    "ans": false,
+    "en": "analysis",
+    "tw": "分析"
+  },
+  {
+    "ans": false,
+    "en": "forecast",
+    "tw": "預測"
+  },
+  {
+    "ans": false,
+    "en": "quarter",
+    "tw": "季度"
+  },
+  {
+    "ans": false,
+    "en": "annual",
+    "tw": "年度的"
+  },
+  {
+    "ans": false,
+    "en": "expense",
+    "tw": "支出、費用"
+  },
+  {
+    "ans": false,
+    "en": "profit",
+    "tw": "利潤"
+  },
+  {
+    "ans": false,
+    "en": "loss",
+    "tw": "虧損"
+  },
+  {
+    "ans": false,
+    "en": "assessment",
+    "tw": "評估"
+  },
+  {
+    "ans": false,
+    "en": "evaluation",
+    "tw": "評估、評價"
+  },
+  {
+    "ans": false,
+    "en": "analysis",
+    "tw": "分析、分析報告"
+  },
+  {
+    "ans": false,
+    "en": "objective",
+    "tw": "目標"
+  },
+  {
+    "ans": false,
+    "en": "target",
+    "tw": "目標"
+  },
+  {
+    "ans": false,
+    "en": "schedule",
+    "tw": "時間表"
+  },
+  {
+    "ans": false,
+    "en": "deadline",
+    "tw": "最後期限"
+  },
+  {
+    "ans": false,
+    "en": "agenda",
+    "tw": "議程"
+  },
+  {
+    "ans": false,
+    "en": "inventory",
+    "tw": "存貨、庫存"
+  },
+  {
+    "ans": false,
+    "en": "facility",
+    "tw": "設施"
+  },
+  {
+    "ans": false,
+    "en": "manufacturer",
+    "tw": "製造商"
+  },
+  {
+    "ans": false,
+    "en": "supplier",
+    "tw": "供應商"
+  },
+  {
+    "ans": false,
+    "en": "production",
+    "tw": "生產"
+  },
+  {
+    "ans": false,
+    "en": "distribution",
+    "tw": "分銷、配銷"
+  },
+  {
+    "ans": false,
+    "en": "logistics",
+    "tw": "物流"
+  },
+  {
+    "ans": false,
+    "en": "promotion",
+    "tw": "促銷"
+  },
+  {
+    "ans": false,
+    "en": "advertisement",
+    "tw": "廣告"
+  },
+  {
+    "ans": false,
+    "en": "campaign",
+    "tw": "活動、競選活動"
+  },
+  {
+    "ans": false,
+    "en": "sponsorship",
+    "tw": "贊助"
+  },
+  {
+    "ans": false,
+    "en": "consumer",
+    "tw": "消費者"
+  },
+  {
+    "ans": false,
+    "en": "supplier",
+    "tw": "供應商"
+  },
+  {
+    "ans": false,
+    "en": "network",
+    "tw": "網路、網絡"
+  },
+  {
+    "ans": false,
+    "en": "negotiation",
+    "tw": "談判"
+  },
+  {
+    "ans": false,
+    "en": "proposal",
+    "tw": "提案"
+  },
+  {
+    "ans": false,
+    "en": "budget",
+    "tw": "預算"
+  },
+  {
+    "ans": false,
+    "en": "revenue",
+    "tw": "收入、營收"
+  },
+  {
+    "ans": false,
+    "en": "profit",
+    "tw": "利潤、獲利"
+  },
+  {
+    "ans": false,
+    "en": "loss",
+    "tw": "損失"
+  },
+  {
+    "ans": false,
+    "en": "investment",
+    "tw": "投資"
+  },
+  {
+    "ans": false,
+    "en": "interest",
+    "tw": "利息、興趣"
+  },
+  {
+    "ans": false,
+    "en": "rate",
+    "tw": "率、比率"
+  },
+  {
+    "ans": false,
+    "en": "trend",
+    "tw": "趨勢"
+  },
+  {
+    "ans": false,
+    "en": "fluctuation",
+    "tw": "波動"
+  },
+  {
+    "ans": false,
+    "en": "variation",
+    "tw": "變化"
+  },
+  {
+    "ans": false,
+    "en": "policy",
+    "tw": "政策"
+  },
+  {
+    "ans": false,
+    "en": "procedure",
+    "tw": "程序"
+  },
+  {
+    "ans": false,
+    "en": "protocol",
+    "tw": "協議"
+  },
+  {
+    "ans": false,
+    "en": "regulation",
+    "tw": "規定、法規"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵從、遵守"
+  },
+  {
+    "ans": false,
+    "en": "violation",
+    "tw": "違反"
+  },
+  {
+    "ans": false,
+    "en": "penalty",
+    "tw": "處罰"
+  },
+  {
+    "ans": false,
+    "en": "incentive",
+    "tw": "激勵、獎勵"
+  },
+  {
+    "ans": false,
+    "en": "bonus",
+    "tw": "獎金、紅利"
+  },
+  {
+    "ans": false,
+    "en": "wage",
+    "tw": "工資"
+  },
+  {
+    "ans": false,
+    "en": "commission",
+    "tw": "佣金"
+  },
+  {
+    "ans": false,
+    "en": "payroll",
+    "tw": "薪資表"
+  },
+  {
+    "ans": false,
+    "en": "deduction",
+    "tw": "扣除"
+  },
+  {
+    "ans": false,
+    "en": "audit",
+    "tw": "審計"
+  },
+  {
+    "ans": false,
+    "en": "accounting",
+    "tw": "會計"
+  },
+  {
+    "ans": false,
+    "en": "balance",
+    "tw": "餘額"
+  },
+  {
+    "ans": false,
+    "en": "statement",
+    "tw": "報表、聲明"
+  },
+  {
+    "ans": false,
+    "en": "transaction",
+    "tw": "交易"
+  },
+  {
+    "ans": false,
+    "en": "negotiation",
+    "tw": "談判"
+  },
+  {
+    "ans": false,
+    "en": "proposal",
+    "tw": "提案"
+  },
+  {
+    "ans": false,
+    "en": "budget",
+    "tw": "預算"
+  },
+  {
+    "ans": false,
+    "en": "revenue",
+    "tw": "收入、營收"
+  },
+  {
+    "ans": false,
+    "en": "profit",
+    "tw": "利潤、獲利"
+  },
+  {
+    "ans": false,
+    "en": "loss",
+    "tw": "損失"
+  },
+  {
+    "ans": false,
+    "en": "investment",
+    "tw": "投資"
+  },
+  {
+    "ans": false,
+    "en": "interest",
+    "tw": "利息、興趣"
+  },
+  {
+    "ans": false,
+    "en": "rate",
+    "tw": "率、比率"
+  },
+  {
+    "ans": false,
+    "en": "trend",
+    "tw": "趨勢"
+  },
+  {
+    "ans": false,
+    "en": "fluctuation",
+    "tw": "波動"
+  },
+  {
+    "ans": false,
+    "en": "variation",
+    "tw": "變化"
+  },
+  {
+    "ans": false,
+    "en": "policy",
+    "tw": "政策"
+  },
+  {
+    "ans": false,
+    "en": "procedure",
+    "tw": "程序"
+  },
+  {
+    "ans": false,
+    "en": "protocol",
+    "tw": "協議"
+  },
+  {
+    "ans": false,
+    "en": "regulation",
+    "tw": "規定、法規"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵從、遵守"
+  },
+  {
+    "ans": false,
+    "en": "violation",
+    "tw": "違反"
+  },
+  {
+    "ans": false,
+    "en": "penalty",
+    "tw": "處罰"
+  },
+  {
+    "ans": false,
+    "en": "incentive",
+    "tw": "激勵、獎勵"
+  },
+  {
+    "ans": false,
+    "en": "bonus",
+    "tw": "獎金、紅利"
+  },
+  {
+    "ans": false,
+    "en": "wage",
+    "tw": "工資"
+  },
+  {
+    "ans": false,
+    "en": "commission",
+    "tw": "佣金"
+  },
+  {
+    "ans": false,
+    "en": "payroll",
+    "tw": "薪資表"
+  },
+  {
+    "ans": false,
+    "en": "deduction",
+    "tw": "扣除"
+  },
+  {
+    "ans": false,
+    "en": "audit",
+    "tw": "審計"
+  },
+  {
+    "ans": false,
+    "en": "accounting",
+    "tw": "會計"
+  },
+  {
+    "ans": false,
+    "en": "balance",
+    "tw": "餘額"
+  },
+  {
+    "ans": false,
+    "en": "statement",
+    "tw": "報表、聲明"
+  },
+  {
+    "ans": false,
+    "en": "transaction",
+    "tw": "交易"
+  },
+  {
+    "ans": false,
+    "en": "invoice",
+    "tw": "發票"
+  },
+  {
+    "ans": false,
+    "en": "receipt",
+    "tw": "收據"
+  },
+  {
+    "ans": false,
+    "en": "credit",
+    "tw": "信用、信貸"
+  },
+  {
+    "ans": false,
+    "en": "debit",
+    "tw": "借記"
+  },
+  {
+    "ans": false,
+    "en": "asset",
+    "tw": "資產"
+  },
+  {
+    "ans": false,
+    "en": "liability",
+    "tw": "負債"
+  },
+  {
+    "ans": false,
+    "en": "equity",
+    "tw": "權益"
+  },
+  {
+    "ans": false,
+    "en": "investment",
+    "tw": "投資"
+  },
+  {
+    "ans": false,
+    "en": "stock",
+    "tw": "股票"
+  },
+  {
+    "ans": false,
+    "en": "share",
+    "tw": "股份"
+  },
+  {
+    "ans": false,
+    "en": "bond",
+    "tw": "債券"
+  },
+  {
+    "ans": false,
+    "en": "dividend",
+    "tw": "股息"
+  },
+  {
+    "ans": false,
+    "en": "interest",
+    "tw": "利息"
+  },
+  {
+    "ans": false,
+    "en": "loan",
+    "tw": "貸款"
+  },
+  {
+    "ans": false,
+    "en": "mortgage",
+    "tw": "抵押貸款"
+  },
+  {
+    "ans": false,
+    "en": "currency",
+    "tw": "貨幣"
+  },
+  {
+    "ans": false,
+    "en": "exchange",
+    "tw": "交換"
+  },
+  {
+    "ans": false,
+    "en": "rate",
+    "tw": "匯率"
+  },
+  {
+    "ans": false,
+    "en": "budget",
+    "tw": "預算"
+  },
+  {
+    "ans": false,
+    "en": "forecast",
+    "tw": "預測"
+  },
+  {
+    "ans": false,
+    "en": "estimate",
+    "tw": "估計"
+  },
+  {
+    "ans": false,
+    "en": "cost",
+    "tw": "成本"
+  },
+  {
+    "ans": false,
+    "en": "price",
+    "tw": "價格"
+  },
+  {
+    "ans": false,
+    "en": "expense",
+    "tw": "費用、開支"
+  },
+  {
+    "ans": false,
+    "en": "fee",
+    "tw": "費用、服務費"
+  }
+]

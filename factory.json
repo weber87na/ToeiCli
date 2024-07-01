@@ -1,0 +1,1907 @@
+[
+  {
+    "ans": false,
+    "en": "factory",
+    "tw": "工廠"
+  },
+  {
+    "ans": false,
+    "en": "manufacturer",
+    "tw": "製造商"
+  },
+  {
+    "ans": false,
+    "en": "production",
+    "tw": "生產"
+  },
+  {
+    "ans": false,
+    "en": "assembly",
+    "tw": "組裝"
+  },
+  {
+    "ans": false,
+    "en": "facility",
+    "tw": "設施"
+  },
+  {
+    "ans": false,
+    "en": "plant",
+    "tw": "工廠、廠房"
+  },
+  {
+    "ans": false,
+    "en": "machinery",
+    "tw": "機械"
+  },
+  {
+    "ans": false,
+    "en": "equipment",
+    "tw": "設備"
+  },
+  {
+    "ans": false,
+    "en": "production line",
+    "tw": "生產線"
+  },
+  {
+    "ans": false,
+    "en": "automation",
+    "tw": "自動化"
+  },
+  {
+    "ans": false,
+    "en": "manufacturing",
+    "tw": "製造"
+  },
+  {
+    "ans": false,
+    "en": "factory floor",
+    "tw": "工廠廠房"
+  },
+  {
+    "ans": false,
+    "en": "plant manager",
+    "tw": "廠長"
+  },
+  {
+    "ans": false,
+    "en": "assembly line",
+    "tw": "組裝線"
+  },
+  {
+    "ans": false,
+    "en": "warehouse",
+    "tw": "倉庫"
+  },
+  {
+    "ans": false,
+    "en": "logistics",
+    "tw": "物流"
+  },
+  {
+    "ans": false,
+    "en": "shipping",
+    "tw": "運輸、船運"
+  },
+  {
+    "ans": false,
+    "en": "container",
+    "tw": "集裝箱"
+  },
+  {
+    "ans": false,
+    "en": "packing",
+    "tw": "包裝"
+  },
+  {
+    "ans": false,
+    "en": "shipment",
+    "tw": "運送、裝運"
+  },
+  {
+    "ans": false,
+    "en": "inventory",
+    "tw": "存貨、庫存"
+  },
+  {
+    "ans": false,
+    "en": "stock",
+    "tw": "庫存、存貨"
+  },
+  {
+    "ans": false,
+    "en": "supply chain",
+    "tw": "供應鏈"
+  },
+  {
+    "ans": false,
+    "en": "supplier",
+    "tw": "供應商"
+  },
+  {
+    "ans": false,
+    "en": "raw materials",
+    "tw": "原料"
+  },
+  {
+    "ans": false,
+    "en": "components",
+    "tw": "零件、元件"
+  },
+  {
+    "ans": false,
+    "en": "parts",
+    "tw": "零件、配件"
+  },
+  {
+    "ans": false,
+    "en": "inventory control",
+    "tw": "庫存控制"
+  },
+  {
+    "ans": false,
+    "en": "just-in-time",
+    "tw": "及時生產"
+  },
+  {
+    "ans": false,
+    "en": "quality control",
+    "tw": "品質控制"
+  },
+  {
+    "ans": false,
+    "en": "defect",
+    "tw": "缺陷"
+  },
+  {
+    "ans": false,
+    "en": "reject",
+    "tw": "拒絕、退回"
+  },
+  {
+    "ans": false,
+    "en": "inspection",
+    "tw": "檢查、檢驗"
+  },
+  {
+    "ans": false,
+    "en": "ISO certification",
+    "tw": "ISO 認證"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵從、合規"
+  },
+  {
+    "ans": false,
+    "en": "audit",
+    "tw": "審計"
+  },
+  {
+    "ans": false,
+    "en": "maintenance",
+    "tw": "維護、保養"
+  },
+  {
+    "ans": false,
+    "en": "repair",
+    "tw": "修理"
+  },
+  {
+    "ans": false,
+    "en": "upgrade",
+    "tw": "升級"
+  },
+  {
+    "ans": false,
+    "en": "engineering",
+    "tw": "工程"
+  },
+  {
+    "ans": false,
+    "en": "design",
+    "tw": "設計"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "prototype",
+    "tw": "原型"
+  },
+  {
+    "ans": false,
+    "en": "innovation",
+    "tw": "創新"
+  },
+  {
+    "ans": false,
+    "en": "technology",
+    "tw": "技術"
+  },
+  {
+    "ans": false,
+    "en": "research",
+    "tw": "研究"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "testing",
+    "tw": "測試"
+  },
+  {
+    "ans": false,
+    "en": "quality assurance",
+    "tw": "品質保證"
+  },
+  {
+    "ans": false,
+    "en": "performance",
+    "tw": "性能"
+  },
+  {
+    "ans": false,
+    "en": "efficiency",
+    "tw": "效率"
+  },
+  {
+    "ans": false,
+    "en": "capacity",
+    "tw": "容量"
+  },
+  {
+    "ans": false,
+    "en": "output",
+    "tw": "產量、輸出"
+  },
+  {
+    "ans": false,
+    "en": "productivity",
+    "tw": "生產力"
+  },
+  {
+    "ans": false,
+    "en": "utilization",
+    "tw": "利用率"
+  },
+  {
+    "ans": false,
+    "en": "waste management",
+    "tw": "廢物管理"
+  },
+  {
+    "ans": false,
+    "en": "environmental impact",
+    "tw": "環境影響"
+  },
+  {
+    "ans": false,
+    "en": "emissions",
+    "tw": "排放"
+  },
+  {
+    "ans": false,
+    "en": "pollution",
+    "tw": "污染"
+  },
+  {
+    "ans": false,
+    "en": "recycling",
+    "tw": "回收"
+  },
+  {
+    "ans": false,
+    "en": "sustainability",
+    "tw": "可持續性"
+  },
+  {
+    "ans": false,
+    "en": "renewable energy",
+    "tw": "可再生能源"
+  },
+  {
+    "ans": false,
+    "en": "solar panel",
+    "tw": "太陽能板"
+  },
+  {
+    "ans": false,
+    "en": "wind turbine",
+    "tw": "風力發電機"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric power",
+    "tw": "水力發電"
+  },
+  {
+    "ans": false,
+    "en": "geothermal energy",
+    "tw": "地熱能"
+  },
+  {
+    "ans": false,
+    "en": "nuclear power",
+    "tw": "核能"
+  },
+  {
+    "ans": false,
+    "en": "electricity generation",
+    "tw": "發電"
+  },
+  {
+    "ans": false,
+    "en": "grid",
+    "tw": "電網"
+  },
+  {
+    "ans": false,
+    "en": "power plant",
+    "tw": "發電廠"
+  },
+  {
+    "ans": false,
+    "en": "transformer",
+    "tw": "變壓器"
+  },
+  {
+    "ans": false,
+    "en": "switchgear",
+    "tw": "開關設備"
+  },
+  {
+    "ans": false,
+    "en": "circuit breaker",
+    "tw": "斷路器"
+  },
+  {
+    "ans": false,
+    "en": "generator",
+    "tw": "發電機"
+  },
+  {
+    "ans": false,
+    "en": "battery",
+    "tw": "電池"
+  },
+  {
+    "ans": false,
+    "en": "inverter",
+    "tw": "逆變器"
+  },
+  {
+    "ans": false,
+    "en": "transmission line",
+    "tw": "輸電線路"
+  },
+  {
+    "ans": false,
+    "en": "grid operator",
+    "tw": "電網運營商"
+  },
+  {
+    "ans": false,
+    "en": "load shedding",
+    "tw": "負載調節"
+  },
+  {
+    "ans": false,
+    "en": "blackout",
+    "tw": "停電"
+  },
+  {
+    "ans": false,
+    "en": "brownout",
+    "tw": "電壓降低"
+  },
+  {
+    "ans": false,
+    "en": "meter",
+    "tw": "計量器"
+  },
+  {
+    "ans": false,
+    "en": "meter reading",
+    "tw": "抄表"
+  },
+  {
+    "ans": false,
+    "en": "smart grid",
+    "tw": "智慧電網"
+  },
+  {
+    "ans": false,
+    "en": "power consumption",
+    "tw": "用電量"
+  },
+  {
+    "ans": false,
+    "en": "energy efficiency",
+    "tw": "能源效率"
+  },
+  {
+    "ans": false,
+    "en": "energy conservation",
+    "tw": "節能"
+  },
+  {
+    "ans": false,
+    "en": "renewable energy",
+    "tw": "可再生能源"
+  },
+  {
+    "ans": false,
+    "en": "solar energy",
+    "tw": "太陽能"
+  },
+  {
+    "ans": false,
+    "en": "wind energy",
+    "tw": "風能"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric power",
+    "tw": "水力發電"
+  },
+  {
+    "ans": false,
+    "en": "geothermal energy",
+    "tw": "地熱能"
+  },
+  {
+    "ans": false,
+    "en": "nuclear energy",
+    "tw": "核能"
+  },
+  {
+    "ans": false,
+    "en": "power grid",
+    "tw": "電網"
+  },
+  {
+    "ans": false,
+    "en": "distribution network",
+    "tw": "配電網"
+  },
+  {
+    "ans": false,
+    "en": "electric vehicle",
+    "tw": "電動車"
+  },
+  {
+    "ans": false,
+    "en": "charging station",
+    "tw": "充電站"
+  },
+  {
+    "ans": false,
+    "en": "battery technology",
+    "tw": "電池技術"
+  },
+  {
+    "ans": false,
+    "en": "energy storage",
+    "tw": "能源儲存"
+  },
+  {
+    "ans": false,
+    "en": "rechargeable battery",
+    "tw": "可充電電池"
+  },
+  {
+    "ans": false,
+    "en": "fuel cell",
+    "tw": "燃料電池"
+  },
+  {
+    "ans": false,
+    "en": "electric grid",
+    "tw": "電網"
+  },
+  {
+    "ans": false,
+    "en": "sustainable energy",
+    "tw": "可持續能源"
+  },
+  {
+    "ans": false,
+    "en": "energy management",
+    "tw": "能源管理"
+  },
+  {
+    "ans": false,
+    "en": "energy policy",
+    "tw": "能源政策"
+  },
+  {
+    "ans": false,
+    "en": "energy efficiency",
+    "tw": "能源效率"
+  },
+  {
+    "ans": false,
+    "en": "power generation",
+    "tw": "發電"
+  },
+  {
+    "ans": false,
+    "en": "thermal power",
+    "tw": "火力發電"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric power",
+    "tw": "水力發電"
+  },
+  {
+    "ans": false,
+    "en": "wind power",
+    "tw": "風力發電"
+  },
+  {
+    "ans": false,
+    "en": "solar power",
+    "tw": "太陽能發電"
+  },
+  {
+    "ans": false,
+    "en": "nuclear power",
+    "tw": "核能發電"
+  },
+  {
+    "ans": false,
+    "en": "alternative energy",
+    "tw": "替代能源"
+  },
+  {
+    "ans": false,
+    "en": "clean energy",
+    "tw": "清潔能源"
+  },
+  {
+    "ans": false,
+    "en": "carbon footprint",
+    "tw": "碳足跡"
+  },
+  {
+    "ans": false,
+    "en": "emission reduction",
+    "tw": "減排"
+  },
+  {
+    "ans": false,
+    "en": "climate change",
+    "tw": "氣候變化"
+  },
+  {
+    "ans": false,
+    "en": "global warming",
+    "tw": "全球暖化"
+  },
+  {
+    "ans": false,
+    "en": "environmental impact",
+    "tw": "環境影響"
+  },
+  {
+    "ans": false,
+    "en": "recycling",
+    "tw": "回收"
+  },
+  {
+    "ans": false,
+    "en": "reuse",
+    "tw": "重複使用"
+  },
+  {
+    "ans": false,
+    "en": "waste management",
+    "tw": "廢物管理"
+  },
+  {
+    "ans": false,
+    "en": "sustainable development",
+    "tw": "可持續發展"
+  },
+  {
+    "ans": false,
+    "en": "green technology",
+    "tw": "綠色技術"
+  },
+  {
+    "ans": false,
+    "en": "eco-friendly",
+    "tw": "環保的"
+  },
+  {
+    "ans": false,
+    "en": "carbon neutral",
+    "tw": "碳中和的"
+  },
+  {
+    "ans": false,
+    "en": "zero emissions",
+    "tw": "零排放"
+  },
+  {
+    "ans": false,
+    "en": "energy-efficient",
+    "tw": "節能的"
+  },
+  {
+    "ans": false,
+    "en": "biofuel",
+    "tw": "生物燃料"
+  },
+  {
+    "ans": false,
+    "en": "biomass",
+    "tw": "生物質"
+  },
+  {
+    "ans": false,
+    "en": "solar panel",
+    "tw": "太陽能板"
+  },
+  {
+    "ans": false,
+    "en": "wind turbine",
+    "tw": "風力發電機"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric dam",
+    "tw": "水壩"
+  },
+  {
+    "ans": false,
+    "en": "geothermal power",
+    "tw": "地熱能"
+  },
+  {
+    "ans": false,
+    "en": "tidal power",
+    "tw": "潮汐能"
+  },
+  {
+    "ans": false,
+    "en": "wave energy",
+    "tw": "波浪能"
+  },
+  {
+    "ans": false,
+    "en": "energy consumption",
+    "tw": "能源消耗"
+  },
+  {
+    "ans": false,
+    "en": "energy audit",
+    "tw": "能源審計"
+  },
+  {
+    "ans": false,
+    "en": "energy savings",
+    "tw": "節能"
+  },
+  {
+    "ans": false,
+    "en": "carbon emissions",
+    "tw": "碳排放"
+  },
+  {
+    "ans": false,
+    "en": "renewable resources",
+    "tw": "可再生資源"
+  },
+  {
+    "ans": false,
+    "en": "fossil fuels",
+    "tw": "化石燃料"
+  },
+  {
+    "ans": false,
+    "en": "non-renewable resources",
+    "tw": "非可再生資源"
+  },
+  {
+    "ans": false,
+    "en": "electricity",
+    "tw": "電力"
+  },
+  {
+    "ans": false,
+    "en": "power",
+    "tw": "電力"
+  },
+  {
+    "ans": false,
+    "en": "voltage",
+    "tw": "電壓"
+  },
+  {
+    "ans": false,
+    "en": "current",
+    "tw": "電流"
+  },
+  {
+    "ans": false,
+    "en": "resistance",
+    "tw": "電阻"
+  },
+  {
+    "ans": false,
+    "en": "circuit",
+    "tw": "電路"
+  },
+  {
+    "ans": false,
+    "en": "capacitor",
+    "tw": "電容器"
+  },
+  {
+    "ans": false,
+    "en": "inductor",
+    "tw": "電感器"
+  },
+  {
+    "ans": false,
+    "en": "diode",
+    "tw": "二極管"
+  },
+  {
+    "ans": false,
+    "en": "transistor",
+    "tw": "晶體管"
+  },
+  {
+    "ans": false,
+    "en": "integrated circuit",
+    "tw": "積體電路"
+  },
+  {
+    "ans": false,
+    "en": "microcontroller",
+    "tw": "微控制器"
+  },
+  {
+    "ans": false,
+    "en": "microprocessor",
+    "tw": "微處理器"
+  },
+  {
+    "ans": false,
+    "en": "sensor",
+    "tw": "感測器"
+  },
+  {
+    "ans": false,
+    "en": "actuator",
+    "tw": "驅動器"
+  },
+  {
+    "ans": false,
+    "en": "switch",
+    "tw": "開關"
+  },
+  {
+    "ans": false,
+    "en": "relay",
+    "tw": "繼電器"
+  },
+  {
+    "ans": false,
+    "en": "connector",
+    "tw": "連接器"
+  },
+  {
+    "ans": false,
+    "en": "PCB (Printed Circuit Board)",
+    "tw": "印刷電路板"
+  },
+  {
+    "ans": false,
+    "en": "prototype",
+    "tw": "原型"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "design",
+    "tw": "設計"
+  },
+  {
+    "ans": false,
+    "en": "engineering",
+    "tw": "工程"
+  },
+  {
+    "ans": false,
+    "en": "technology",
+    "tw": "技術"
+  },
+  {
+    "ans": false,
+    "en": "research",
+    "tw": "研究"
+  },
+  {
+    "ans": false,
+    "en": "innovation",
+    "tw": "創新"
+  },
+  {
+    "ans": false,
+    "en": "testing",
+    "tw": "測試"
+  },
+  {
+    "ans": false,
+    "en": "evaluation",
+    "tw": "評估"
+  },
+  {
+    "ans": false,
+    "en": "verification",
+    "tw": "驗證"
+  },
+  {
+    "ans": false,
+    "en": "validation",
+    "tw": "確認"
+  },
+  {
+    "ans": false,
+    "en": "certification",
+    "tw": "認證"
+  },
+  {
+    "ans": false,
+    "en": "standardization",
+    "tw": "標準化"
+  },
+  {
+    "ans": false,
+    "en": "regulation",
+    "tw": "規範、法規"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵從、合規"
+  },
+  {
+    "ans": false,
+    "en": "prototype",
+    "tw": "原型"
+  },
+  {
+    "ans": false,
+    "en": "testing",
+    "tw": "測試"
+  },
+  {
+    "ans": false,
+    "en": "quality control",
+    "tw": "品質控制"
+  },
+  {
+    "ans": false,
+    "en": "defect",
+    "tw": "缺陷"
+  },
+  {
+    "ans": false,
+    "en": "reject",
+    "tw": "拒絕、退回"
+  },
+  {
+    "ans": false,
+    "en": "inspection",
+    "tw": "檢查、檢驗"
+  },
+  {
+    "ans": false,
+    "en": "ISO certification",
+    "tw": "ISO 認證"
+  },
+  {
+    "ans": false,
+    "en": "maintenance",
+    "tw": "維護、保養"
+  },
+  {
+    "ans": false,
+    "en": "repair",
+    "tw": "修理"
+  },
+  {
+    "ans": false,
+    "en": "upgrade",
+    "tw": "升級"
+  },
+  {
+    "ans": false,
+    "en": "engineering",
+    "tw": "工程"
+  },
+  {
+    "ans": false,
+    "en": "design",
+    "tw": "設計"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "prototype",
+    "tw": "原型"
+  },
+  {
+    "ans": false,
+    "en": "innovation",
+    "tw": "創新"
+  },
+  {
+    "ans": false,
+    "en": "technology",
+    "tw": "技術"
+  },
+  {
+    "ans": false,
+    "en": "research",
+    "tw": "研究"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "testing",
+    "tw": "測試"
+  },
+  {
+    "ans": false,
+    "en": "quality assurance",
+    "tw": "品質保證"
+  },
+  {
+    "ans": false,
+    "en": "performance",
+    "tw": "性能"
+  },
+  {
+    "ans": false,
+    "en": "efficiency",
+    "tw": "效率"
+  },
+  {
+    "ans": false,
+    "en": "capacity",
+    "tw": "容量"
+  },
+  {
+    "ans": false,
+    "en": "output",
+    "tw": "產量、輸出"
+  },
+  {
+    "ans": false,
+    "en": "productivity",
+    "tw": "生產力"
+  },
+  {
+    "ans": false,
+    "en": "utilization",
+    "tw": "利用率"
+  },
+  {
+    "ans": false,
+    "en": "waste management",
+    "tw": "廢物管理"
+  },
+  {
+    "ans": false,
+    "en": "environmental impact",
+    "tw": "環境影響"
+  },
+  {
+    "ans": false,
+    "en": "emissions",
+    "tw": "排放"
+  },
+  {
+    "ans": false,
+    "en": "pollution",
+    "tw": "污染"
+  },
+  {
+    "ans": false,
+    "en": "recycling",
+    "tw": "回收"
+  },
+  {
+    "ans": false,
+    "en": "sustainability",
+    "tw": "可持續性"
+  },
+  {
+    "ans": false,
+    "en": "renewable energy",
+    "tw": "可再生能源"
+  },
+  {
+    "ans": false,
+    "en": "solar panel",
+    "tw": "太陽能板"
+  },
+  {
+    "ans": false,
+    "en": "wind turbine",
+    "tw": "風力發電機"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric power",
+    "tw": "水力發電"
+  },
+  {
+    "ans": false,
+    "en": "geothermal energy",
+    "tw": "地熱能"
+  },
+  {
+    "ans": false,
+    "en": "nuclear power",
+    "tw": "核能"
+  },
+  {
+    "ans": false,
+    "en": "electricity generation",
+    "tw": "發電"
+  },
+  {
+    "ans": false,
+    "en": "grid",
+    "tw": "電網"
+  },
+  {
+    "ans": false,
+    "en": "power plant",
+    "tw": "發電廠"
+  },
+  {
+    "ans": false,
+    "en": "transformer",
+    "tw": "變壓器"
+  },
+  {
+    "ans": false,
+    "en": "switchgear",
+    "tw": "開關設備"
+  },
+  {
+    "ans": false,
+    "en": "circuit breaker",
+    "tw": "斷路器"
+  },
+  {
+    "ans": false,
+    "en": "generator",
+    "tw": "發電機"
+  },
+  {
+    "ans": false,
+    "en": "battery",
+    "tw": "電池"
+  },
+  {
+    "ans": false,
+    "en": "inverter",
+    "tw": "逆變器"
+  },
+  {
+    "ans": false,
+    "en": "transmission line",
+    "tw": "輸電線路"
+  },
+  {
+    "ans": false,
+    "en": "grid operator",
+    "tw": "電網運營商"
+  },
+  {
+    "ans": false,
+    "en": "load shedding",
+    "tw": "負載調節"
+  },
+  {
+    "ans": false,
+    "en": "blackout",
+    "tw": "停電"
+  },
+  {
+    "ans": false,
+    "en": "brownout",
+    "tw": "電壓降低"
+  },
+  {
+    "ans": false,
+    "en": "meter",
+    "tw": "計量器"
+  },
+  {
+    "ans": false,
+    "en": "meter reading",
+    "tw": "抄表"
+  },
+  {
+    "ans": false,
+    "en": "smart grid",
+    "tw": "智慧電網"
+  },
+  {
+    "ans": false,
+    "en": "power consumption",
+    "tw": "用電量"
+  },
+  {
+    "ans": false,
+    "en": "energy efficiency",
+    "tw": "能源效率"
+  },
+  {
+    "ans": false,
+    "en": "energy conservation",
+    "tw": "節能"
+  },
+  {
+    "ans": false,
+    "en": "renewable energy",
+    "tw": "可再生能源"
+  },
+  {
+    "ans": false,
+    "en": "solar energy",
+    "tw": "太陽能"
+  },
+  {
+    "ans": false,
+    "en": "wind energy",
+    "tw": "風能"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric power",
+    "tw": "水力發電"
+  },
+  {
+    "ans": false,
+    "en": "geothermal energy",
+    "tw": "地熱能"
+  },
+  {
+    "ans": false,
+    "en": "nuclear energy",
+    "tw": "核能"
+  },
+  {
+    "ans": false,
+    "en": "power grid",
+    "tw": "電網"
+  },
+  {
+    "ans": false,
+    "en": "distribution network",
+    "tw": "配電網"
+  },
+  {
+    "ans": false,
+    "en": "electric vehicle",
+    "tw": "電動車"
+  },
+  {
+    "ans": false,
+    "en": "charging station",
+    "tw": "充電站"
+  },
+  {
+    "ans": false,
+    "en": "battery technology",
+    "tw": "電池技術"
+  },
+  {
+    "ans": false,
+    "en": "energy storage",
+    "tw": "能源儲存"
+  },
+  {
+    "ans": false,
+    "en": "rechargeable battery",
+    "tw": "可充電電池"
+  },
+  {
+    "ans": false,
+    "en": "fuel cell",
+    "tw": "燃料電池"
+  },
+  {
+    "ans": false,
+    "en": "electric grid",
+    "tw": "電網"
+  },
+  {
+    "ans": false,
+    "en": "sustainable energy",
+    "tw": "可持續能源"
+  },
+  {
+    "ans": false,
+    "en": "energy management",
+    "tw": "能源管理"
+  },
+  {
+    "ans": false,
+    "en": "energy policy",
+    "tw": "能源政策"
+  },
+  {
+    "ans": false,
+    "en": "energy efficiency",
+    "tw": "能源效率"
+  },
+  {
+    "ans": false,
+    "en": "power generation",
+    "tw": "發電"
+  },
+  {
+    "ans": false,
+    "en": "thermal power",
+    "tw": "火力發電"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric power",
+    "tw": "水力發電"
+  },
+  {
+    "ans": false,
+    "en": "wind power",
+    "tw": "風力發電"
+  },
+  {
+    "ans": false,
+    "en": "solar power",
+    "tw": "太陽能發電"
+  },
+  {
+    "ans": false,
+    "en": "nuclear power",
+    "tw": "核能發電"
+  },
+  {
+    "ans": false,
+    "en": "alternative energy",
+    "tw": "替代能源"
+  },
+  {
+    "ans": false,
+    "en": "clean energy",
+    "tw": "清潔能源"
+  },
+  {
+    "ans": false,
+    "en": "carbon footprint",
+    "tw": "碳足跡"
+  },
+  {
+    "ans": false,
+    "en": "emission reduction",
+    "tw": "減排"
+  },
+  {
+    "ans": false,
+    "en": "climate change",
+    "tw": "氣候變化"
+  },
+  {
+    "ans": false,
+    "en": "global warming",
+    "tw": "全球暖化"
+  },
+  {
+    "ans": false,
+    "en": "environmental impact",
+    "tw": "環境影響"
+  },
+  {
+    "ans": false,
+    "en": "recycling",
+    "tw": "回收"
+  },
+  {
+    "ans": false,
+    "en": "reuse",
+    "tw": "重複使用"
+  },
+  {
+    "ans": false,
+    "en": "waste management",
+    "tw": "廢物管理"
+  },
+  {
+    "ans": false,
+    "en": "sustainable development",
+    "tw": "可持續發展"
+  },
+  {
+    "ans": false,
+    "en": "green technology",
+    "tw": "綠色技術"
+  },
+  {
+    "ans": false,
+    "en": "eco-friendly",
+    "tw": "環保的"
+  },
+  {
+    "ans": false,
+    "en": "carbon neutral",
+    "tw": "碳中和的"
+  },
+  {
+    "ans": false,
+    "en": "zero emissions",
+    "tw": "零排放"
+  },
+  {
+    "ans": false,
+    "en": "energy-efficient",
+    "tw": "節能的"
+  },
+  {
+    "ans": false,
+    "en": "biofuel",
+    "tw": "生物燃料"
+  },
+  {
+    "ans": false,
+    "en": "biomass",
+    "tw": "生物質"
+  },
+  {
+    "ans": false,
+    "en": "solar panel",
+    "tw": "太陽能板"
+  },
+  {
+    "ans": false,
+    "en": "wind turbine",
+    "tw": "風力發電機"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric dam",
+    "tw": "水壩"
+  },
+  {
+    "ans": false,
+    "en": "geothermal power",
+    "tw": "地熱能"
+  },
+  {
+    "ans": false,
+    "en": "tidal power",
+    "tw": "潮汐能"
+  },
+  {
+    "ans": false,
+    "en": "wave energy",
+    "tw": "波浪能"
+  },
+  {
+    "ans": false,
+    "en": "energy consumption",
+    "tw": "能源消耗"
+  },
+  {
+    "ans": false,
+    "en": "energy audit",
+    "tw": "能源審計"
+  },
+  {
+    "ans": false,
+    "en": "energy savings",
+    "tw": "節能"
+  },
+  {
+    "ans": false,
+    "en": "carbon emissions",
+    "tw": "碳排放"
+  },
+  {
+    "ans": false,
+    "en": "renewable resources",
+    "tw": "可再生資源"
+  },
+  {
+    "ans": false,
+    "en": "fossil fuels",
+    "tw": "化石燃料"
+  },
+  {
+    "ans": false,
+    "en": "non-renewable resources",
+    "tw": "非可再生資源"
+  },
+  {
+    "ans": false,
+    "en": "electricity",
+    "tw": "電力"
+  },
+  {
+    "ans": false,
+    "en": "power",
+    "tw": "電力"
+  },
+  {
+    "ans": false,
+    "en": "voltage",
+    "tw": "電壓"
+  },
+  {
+    "ans": false,
+    "en": "current",
+    "tw": "電流"
+  },
+  {
+    "ans": false,
+    "en": "resistance",
+    "tw": "電阻"
+  },
+  {
+    "ans": false,
+    "en": "circuit",
+    "tw": "電路"
+  },
+  {
+    "ans": false,
+    "en": "capacitor",
+    "tw": "電容器"
+  },
+  {
+    "ans": false,
+    "en": "inductor",
+    "tw": "電感器"
+  },
+  {
+    "ans": false,
+    "en": "diode",
+    "tw": "二極管"
+  },
+  {
+    "ans": false,
+    "en": "transistor",
+    "tw": "晶體管"
+  },
+  {
+    "ans": false,
+    "en": "integrated circuit",
+    "tw": "積體電路"
+  },
+  {
+    "ans": false,
+    "en": "microcontroller",
+    "tw": "微控制器"
+  },
+  {
+    "ans": false,
+    "en": "microprocessor",
+    "tw": "微處理器"
+  },
+  {
+    "ans": false,
+    "en": "sensor",
+    "tw": "感測器"
+  },
+  {
+    "ans": false,
+    "en": "actuator",
+    "tw": "驅動器"
+  },
+  {
+    "ans": false,
+    "en": "switch",
+    "tw": "開關"
+  },
+  {
+    "ans": false,
+    "en": "relay",
+    "tw": "繼電器"
+  },
+  {
+    "ans": false,
+    "en": "connector",
+    "tw": "連接器"
+  },
+  {
+    "ans": false,
+    "en": "PCB (Printed Circuit Board)",
+    "tw": "印刷電路板"
+  },
+  {
+    "ans": false,
+    "en": "prototype",
+    "tw": "原型"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "design",
+    "tw": "設計"
+  },
+  {
+    "ans": false,
+    "en": "engineering",
+    "tw": "工程"
+  },
+  {
+    "ans": false,
+    "en": "technology",
+    "tw": "技術"
+  },
+  {
+    "ans": false,
+    "en": "research",
+    "tw": "研究"
+  },
+  {
+    "ans": false,
+    "en": "innovation",
+    "tw": "創新"
+  },
+  {
+    "ans": false,
+    "en": "testing",
+    "tw": "測試"
+  },
+  {
+    "ans": false,
+    "en": "evaluation",
+    "tw": "評估"
+  },
+  {
+    "ans": false,
+    "en": "verification",
+    "tw": "驗證"
+  },
+  {
+    "ans": false,
+    "en": "validation",
+    "tw": "確認"
+  },
+  {
+    "ans": false,
+    "en": "certification",
+    "tw": "認證"
+  },
+  {
+    "ans": false,
+    "en": "standardization",
+    "tw": "標準化"
+  },
+  {
+    "ans": false,
+    "en": "regulation",
+    "tw": "規範、法規"
+  },
+  {
+    "ans": false,
+    "en": "compliance",
+    "tw": "遵從、合規"
+  },
+  {
+    "ans": false,
+    "en": "prototype",
+    "tw": "原型"
+  },
+  {
+    "ans": false,
+    "en": " testing",
+    "tw": "測試"
+  },
+  {
+    "ans": false,
+    "en": "quality control",
+    "tw": "品質控制"
+  },
+  {
+    "ans": false,
+    "en": "defect",
+    "tw": "缺陷"
+  },
+  {
+    "ans": false,
+    "en": "reject",
+    "tw": "拒絕、退回"
+  },
+  {
+    "ans": false,
+    "en": "inspection",
+    "tw": "檢查、檢驗"
+  },
+  {
+    "ans": false,
+    "en": "ISO certification",
+    "tw": "ISO 認證"
+  },
+  {
+    "ans": false,
+    "en": "maintenance",
+    "tw": "維護、保養"
+  },
+  {
+    "ans": false,
+    "en": "repair",
+    "tw": "修理"
+  },
+  {
+    "ans": false,
+    "en": "upgrade",
+    "tw": "升級"
+  },
+  {
+    "ans": false,
+    "en": "engineering",
+    "tw": "工程"
+  },
+  {
+    "ans": false,
+    "en": "design",
+    "tw": "設計"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "prototype",
+    "tw": "原型"
+  },
+  {
+    "ans": false,
+    "en": "innovation",
+    "tw": "創新"
+  },
+  {
+    "ans": false,
+    "en": "technology",
+    "tw": "技術"
+  },
+  {
+    "ans": false,
+    "en": "research",
+    "tw": "研究"
+  },
+  {
+    "ans": false,
+    "en": "development",
+    "tw": "開發"
+  },
+  {
+    "ans": false,
+    "en": "testing",
+    "tw": "測試"
+  },
+  {
+    "ans": false,
+    "en": "quality assurance",
+    "tw": "品質保證"
+  },
+  {
+    "ans": false,
+    "en": "performance",
+    "tw": "性能"
+  },
+  {
+    "ans": false,
+    "en": "efficiency",
+    "tw": "效率"
+  },
+  {
+    "ans": false,
+    "en": "capacity",
+    "tw": "容量"
+  },
+  {
+    "ans": false,
+    "en": "output",
+    "tw": "產量、輸出"
+  },
+  {
+    "ans": false,
+    "en": "productivity",
+    "tw": "生產力"
+  },
+  {
+    "ans": false,
+    "en": "utilization",
+    "tw": "利用率"
+  },
+  {
+    "ans": false,
+    "en": "waste management",
+    "tw": "廢物管理"
+  },
+  {
+    "ans": false,
+    "en": "environmental impact",
+    "tw": "環境影響"
+  },
+  {
+    "ans": false,
+    "en": "emissions",
+    "tw": "排放"
+  },
+  {
+    "ans": false,
+    "en": "pollution",
+    "tw": "污染"
+  },
+  {
+    "ans": false,
+    "en": "recycling",
+    "tw": "回收"
+  },
+  {
+    "ans": false,
+    "en": "sustainability",
+    "tw": "可持續性"
+  },
+  {
+    "ans": false,
+    "en": "renewable energy",
+    "tw": "可再生能源"
+  },
+  {
+    "ans": false,
+    "en": "solar panel",
+    "tw": "太陽能板"
+  },
+  {
+    "ans": false,
+    "en": "wind turbine",
+    "tw": "風力發電機"
+  },
+  {
+    "ans": false,
+    "en": "hydroelectric power",
+    "tw": "水力發電"
+  },
+  {
+    "ans": false,
+    "en": "geothermal energy",
+    "tw": "地熱能"
+  },
+  {
+    "ans": false,
+    "en": "nuclear power",
+    "tw": "核能"
+  },
+  {
+    "ans": false,
+    "en": "electricity generation",
+    "tw": "發電"
+  },
+  {
+    "ans": false,
+    "en": "grid",
+    "tw": "電網"
+  },
+  {
+    "ans": false,
+    "en": "power plant",
+    "tw": "發電廠"
+  },
+  {
+    "ans": false,
+    "en": "transformer",
+    "tw": "變壓器"
+  },
+  {
+    "ans": false,
+    "en": "switchgear",
+    "tw": "開關設備"
+  },
+  {
+    "ans": false,
+    "en": "circuit breaker",
+    "tw": "斷路器"
+  },
+  {
+    "ans": false,
+    "en": "generator",
+    "tw": "發電機"
+  },
+  {
+    "ans": false,
+    "en": "battery",
+    "tw": "電池"
+  },
+  {
+    "ans": false,
+    "en": "inverter",
+    "tw": "逆變器"
+  },
+  {
+    "ans": false,
+    "en": "transmission line",
+    "tw": "輸電線路"
+  },
+  {
+    "ans": false,
+    "en": "grid operator",
+    "tw": "電網運營商"
+  },
+  {
+    "ans": false,
+    "en": "load shedding",
+    "tw": "負載調節"
+  },
+  {
+    "ans": false,
+    "en": "blackout",
+    "tw": "停電"
+  },
+  {
+    "ans": false,
+    "en": "brownout",
+    "tw": "電壓降低"
+  },
+  {
+    "ans": false,
+    "en": "meter",
+    "tw": "計量器"
+  },
+  {
+    "ans": false,
+    "en": "meter reading",
+    "tw": "抄表"
+  },
+  {
+    "ans": false,
+    "en": "smart grid",
+    "tw": "智慧電網"
+  },
+  {
+    "ans": false,
+    "en": "power consumption",
+    "tw": "用電量"
+  }
+]
